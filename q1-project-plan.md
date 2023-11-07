@@ -28,7 +28,7 @@ Dataset: which portions of the dataset will you use?
 
 
 
-Evaluation: which portions of the dataset will you use?
+Evaluation: how will you measure the results? Do you have benchmarks?
 	As of now, our evaluation methods have involved manually evaluating the results of queries and giving them our own relevance metric. However, we are planning to include more concrete evaluation metrics such as precision and recall. For further evaluation, we plan to use the NDCG metric, which finds the relevance of the documents returned for each query. We'll create benchmark queries and manually gather the associated documents. Then, we’ll search these queries with our search, and then we can calculate the NDCG score for each. This shows the quality of the rankings in comparison to our manually gathered benchmark. 
 
 
