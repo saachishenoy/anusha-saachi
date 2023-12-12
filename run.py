@@ -31,7 +31,7 @@ if __name__ == '__main__':
     query = ''.join(targets)
     dataset = get_data()
     model, index = encode_semantic(dataset)
-    eval_df = pd.read_csv("data/annotationStore.csv") 
+    eval_df = pd.read_csv("annotationStore.csv") 
     eval_Ruby = eval_df[eval_df["Language"] == "Ruby"]
     best_weights = grid_search()
     eval_metric = end_to_end(best_weights)
