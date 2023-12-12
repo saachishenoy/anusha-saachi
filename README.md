@@ -1,6 +1,6 @@
 # Overview 
 
-This Quarter 1 Project attempts to recreate the CodeSearchNet project by combining keyword and semantic search techniques to create an advanced code search tool. Utilizing the CodeSearchNet Corpus, this project aims to significantly evaluate the NDCG and efficiency of querying source code across the Ruby programming languages.
+This Quarter 1 Project attempts to recreate the CodeSearchNet project by combining keyword and semantic search techniques to create an advanced code search tool. Utilizing the CodeSearchNet Corpus, this project aims to significantly evaluate the NDCG and efficiency of querying source code across the Ruby programming language.
 
 # Project Structure
 The repository is organized as follows:
