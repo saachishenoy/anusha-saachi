@@ -48,7 +48,7 @@ Please Note: If you wish to run this locally, it will run, but it will take a VE
 ## Exploring the Data
 annotationStore.csv contains annotated data used to test our algorithm. This includes the labeled pairings and detailed annotations essential for understanding the test function rankings.
 
-# Planning: 
+# Planning
 The DiscussionWork/ directory contains our project plan and other discussion materials that guided our research.
 
 # Contributors
