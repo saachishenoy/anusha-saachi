@@ -52,6 +52,6 @@ annotationStore.csv contains annotated data used to test our algorithm. This inc
 The DiscussionWork/ directory contains our project plan and other discussion materials that guided our research.
 
 # Contributors
-1. Srianush Nandula
+1. Srianusha Nandula
 2. Saachi Shenoy
 
