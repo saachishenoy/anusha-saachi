@@ -42,11 +42,11 @@ Please Note: If you wish to run this locally, it will run, but it will take a VE
 4. On the last cell, put your own query into the search function if you wish to test it out!
 
 ## Requirements
-Python 3
-Libraries listed in requirements.txt
+1) Python 3
+2) Libraries listed in requirements.txt
 
 ## Exploring the Data
-1. annotationStore.csv contains annotated data used to test our algorithm. This includes the labeled pairings and detailed annotations essential for understanding the test function rankings.
+annotationStore.csv contains annotated data used to test our algorithm. This includes the labeled pairings and detailed annotations essential for understanding the test function rankings.
 
 # Planning: 
 The DiscussionWork/ directory contains our project plan and other discussion materials that guided our research.
